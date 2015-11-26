@@ -1,6 +1,6 @@
 # humanoid_robot_head_project
 
-##This project includes:
+##This project includes
 head drawing
 
 stereo vision system code in Python 
