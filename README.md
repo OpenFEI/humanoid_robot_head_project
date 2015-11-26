@@ -13,3 +13,6 @@ arduino code for receving data from the vision system and control some rgb leds
 1 micro arduino
 
 some rgb leds and others electronic components
+
+ABS filament for printing the plastic head
+
